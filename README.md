@@ -21,23 +21,10 @@ A lightweight Amazon-clone built with HTML, CSS, and JavaScript. The project inc
 └── index.html   # Home page
 ```
 
-## Run Locally
-
-Because this is a static site, you can serve it with any simple HTTP server. For example:
-
-```bash
-python -m http.server 8000
-```
-
-Then visit:
-
-- `http://127.0.0.1:8000/index.html`
-- `http://127.0.0.1:8000/pages/checkout.html`
-- `http://127.0.0.1:8000/pages/orders.html`
-- `http://127.0.0.1:8000/pages/tracking.html`
 
 ## Notes
 
 - The app uses client-side JavaScript to render products and cart details.
 - Images are stored in the `images/` directory and referenced by the HTML and scripts.
 - This clone is still not completed there may be some bugs but surely in future i will fix it.
+- This project is made by the help of supersimpledev(yt channel) he gave the ui of amazone but in javascript i made it.
